@@ -1,2 +1,3 @@
-# recap23-annotations
-reCAP 2023 CDS Annotations Demo
+# Getting Started
+
+reCAP 2023 Demo application for annotations
